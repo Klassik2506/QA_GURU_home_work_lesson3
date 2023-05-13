@@ -1,4 +1,1 @@
-print('Hello World')
-
-def alkmfpla():
-    pass
+print('Hellllllllo World')
